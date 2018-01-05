@@ -54,7 +54,7 @@ void DataSheet::PrintSquareConsole(void) {
 
 	for (int r = 0; r<workRows; ++r)
 	{
-		for (int c = 0; c<10; ++c)
+		for (int c = 0; c<maxCols; ++c)
 			printf("%10.3lf", matrix[r][c]);
 		cout << endl;
 	}
