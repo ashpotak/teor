@@ -1,7 +1,5 @@
 ﻿  Source.cpp
-  DataSheet.cpp
-d:\alexandr\desktop\teor\teor\datasheet.cpp(9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-d:\alexandr\desktop\teor\teor\datasheet.cpp(10): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Column.cpp
   Generating Code...
   teor.vcxproj -> D:\Alexandr\Desktop\teor\x64\Debug\teor.exe
   teor.vcxproj -> D:\Alexandr\Desktop\teor\x64\Debug\teor.pdb (Partial PDB)

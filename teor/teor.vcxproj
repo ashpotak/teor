@@ -112,11 +112,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BasicExcel.cpp" />
+    <ClCompile Include="Column.cpp" />
     <ClCompile Include="DataSheet.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BasicExcel.hpp" />
+    <ClInclude Include="Column.h" />
     <ClInclude Include="DataSheet.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
