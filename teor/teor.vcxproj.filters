@@ -24,7 +24,10 @@
     <ClCompile Include="DataSheet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Column.cpp">
+    <ClCompile Include="Colomn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Interval.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -35,7 +38,10 @@
     <ClInclude Include="DataSheet.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Column.h">
+    <ClInclude Include="Colomn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Interval.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

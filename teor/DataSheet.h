@@ -17,5 +17,6 @@ public:
 
 	vector<double> GetColumn(int num);
 	void PrintSquareConsole(void);
+	int GetCols() { return maxCols; };
 };
 

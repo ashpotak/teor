@@ -112,14 +112,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BasicExcel.cpp" />
-    <ClCompile Include="Column.cpp" />
+    <ClCompile Include="Colomn.cpp" />
     <ClCompile Include="DataSheet.cpp" />
+    <ClCompile Include="Interval.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BasicExcel.hpp" />
-    <ClInclude Include="Column.h" />
+    <ClInclude Include="Colomn.h" />
     <ClInclude Include="DataSheet.h" />
+    <ClInclude Include="Interval.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
